@@ -1,0 +1,10 @@
+combinatorial
+x + x  <-> y
+y + d0 <-> dr
+d0 -> d0 + m
+dr -> dr + m
+m  -> m + x
+x  -> 0
+m  -> 0.
+50 1000 50 1000 1 10 3 1 6
+10 0 20 0 0
