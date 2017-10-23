@@ -1,0 +1,8 @@
+# folders
+###################
+results/
+
+# Compiled source #
+###################
+*.exe
+*.o
